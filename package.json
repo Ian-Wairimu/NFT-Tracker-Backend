@@ -1,0 +1,22 @@
+{
+  "name": "nft-tracker-backend",
+  "version": "1.0.0",
+  "description": "This is a backend application for an nft tracker application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wairimu-ian/NFT-Tracker-Backend.git"
+  },
+  "author": "Ian Moon Wairimu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wairimu-ian/NFT-Tracker-Backend/issues"
+  },
+  "homepage": "https://github.com/wairimu-ian/NFT-Tracker-Backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
